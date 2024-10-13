@@ -11,9 +11,15 @@
 	a) Being able to upload and download new changes to any project at will
 	b) Creating branches for testing of individual code without interferring with the main code
 	c) Recall changes in the history i.e. nothing is deleted forever, everything can be recovered
-	d) 
 	
 3.	Define the following terms in relation to Git. Branch, Pull, Push, repository, working copy, merge
+	
+	- Branch: A branch is a section of the repository with its own changes and history that doesn't affect other branches
+	- Pull: It means to download the latest version of a repository and branch
+	- Push: It means to upload changes made to a branch in a repository so others may 'Pull' the changes made
+	- Repository: Essentially acting as the file where everything is saved and kept
+	- Working Copy: It's multiple files with the subdirectory '.git'
+	- Merge: To merge is to combine branches into one another
 	
 	
 4.	If you are working at a company, which of their policies and procedures might relate to using version control systems such as Git.
@@ -38,10 +44,10 @@
 	
 	
 11.	True or False: It is okay to commit broken code to the main branch.
-	
+	- False, it is never okay to commit broken code to the main branch as it will likely break the code stored there
 	
 12.	True or False: You should commit related changes. For example, fixing two different bugs should produce two separate commits.
-	
+	- 
 	
 13.	Describe what is DevOps, how is it useful for game developers?
 	
