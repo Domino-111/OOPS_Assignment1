@@ -27,6 +27,9 @@
 	
 5.	Merge conflicts can occur while using git. List merge tools or diff tools you can use to help you merge and deal with conflicts.
 	- 'git mergetool' is a tool used to help with merge conflicts, it is versatile being able to resolve issues with every file that has a conflict (skipping files without a conflict) or target specific files to resolve.
+	- Visual Studio is used to help with merge conflicts as it allows users to view the code and identify where the conflict is
+	- 'git status' helps with conflicts by identifying and alerting about conflicts
+	- 'git diff' helps find differences between states of a repository & files
 	
 6.	In a merged source code file, how does Git let you know there is a conflict?
 	- The status command will identify any conflict issues
